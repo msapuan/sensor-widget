@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sensor Widget</string>
+    <string name="appwidget_text">SensorWidget</string>
+    <string name="add_widget">Add widget</string>
+    <string name="error_no_sensor">No sensor</string>
+    <string name="label_proximity">%1$.2f</string>
+    <string name="label_light">%1$.2f</string>
+    <!-- Format string for the date & count text view -->
+    <string name="date_count_format">%1$d @%2$s</string>
+    <string name="widget_button_update">Update</string>
+</resources>
